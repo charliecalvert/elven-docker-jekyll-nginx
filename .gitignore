@@ -4,5 +4,12 @@ debug.log
 .sass-cache
 .jekyll-metadata
 *.iml
+
+# Generated blogs
 myblog*
 
+# Generated site
+Gemfile
+_config.yml
+*.markdown
+404.html
